@@ -1,0 +1,25 @@
+.navbar a{
+    display: inline; margin: 15px; padding: 15px; text-decoration: none; color: black
+}
+h1{font-size: 3em; color: blue;}
+h2{font-size: 2em; color: rgb(20, 179, 210);}
+body{font-family: 'roboto'; background-color: antiquewhite;}
+.about{
+    display: block;
+    align-items: center;
+    justify-content: left; text-align: justify
+; font-family: "Arial", sans-serif; 
+}
+.first { white-space: pre-line;
+  color: black;
+  font-size: 16px; text-align: justify;
+}
+
+.second { white-space: pre-line;
+  color: black
+  font-size: 16px; text-align: justify;
+}
+a:hover {
+    color: rgb(20, 179, 210);
+    text-decoration: underline;
+}
